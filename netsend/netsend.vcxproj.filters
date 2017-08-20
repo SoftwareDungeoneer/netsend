@@ -3,4 +3,7 @@
   <ItemGroup>
     <ClCompile Include="netsend.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="test.txt" />
+  </ItemGroup>
 </Project>
